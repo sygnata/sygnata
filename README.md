@@ -12,7 +12,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sygnata&show_icons=true&theme=radical&text_color=32CD32&bg_color=45,1C1C1C,363636,4F4F4F,696969,808080&title_color=FFFAFA)](https://github.com/sygnata/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sygnata&show_icons=true&theme=radical&text_color=32CD32&bg_color=45,1C1C1C,363636,4F4F4F,696969&title_color=FFFAFA)](https://github.com/sygnata/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sygnata&layout=compact)](https://github.com/sygnata/github-readme-stats)
 
 
