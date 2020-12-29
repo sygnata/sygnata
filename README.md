@@ -1,8 +1,18 @@
 ### OOOIIII 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+Eu sou estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente estou como Estagiário
+- :computer:### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+[<img src="https://img.shields.io/badge/JS-Javascript-red" />]
+- [PHP](https://expo.io/)
+- [HTML](https://nodejs.org/en/)
+- [CSS](https://pt-br.reactjs.org/)
+- [JavaScript](https://reactnative.dev/)
+- [Laravel](https://www.typescriptlang.org/)
+- [MySQL](https://www.typescriptlang.org/)
+
+Tecnologias: PHP, HTML, CSS, JavaScript, Laravel, MySQL 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sygnata&show_icons=true&theme=radical&text_color=32CD32&bg_color=45,1C1C1C,363636,4F4F4F,696969,808080&title_color=FFFAFA)](https://github.com/sygnata/github-readme-stats)
