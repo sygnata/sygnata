@@ -4,7 +4,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas
 - :computer:### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
-[<img src="https://img.shields.io/badge/JS-Javascript-red" />]
+[<img src="https://img.shields.io/badge/JS-Javascript-red" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 - [PHP](https://expo.io/)
 - [HTML](https://nodejs.org/en/)
 - [CSS](https://pt-br.reactjs.org/)
